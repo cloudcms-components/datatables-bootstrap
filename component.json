@@ -1,0 +1,15 @@
+{
+  "name": "datatables-bootstrap",
+  "version": "1.9.4",
+  "description": "DataTables enhances HTML tables with the ability to sort, filter and page the data in the table very easily. It provides a comprehensive API and set of configuration options, allowing you to consume data from virtually any data source.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/DataTables/DataTables"
+  },
+
+	"main": ["dataTables.bootstrap.js", "dataTables.bootstrap.css"],
+	"dependencies": {
+        "datatables": "*"
+    }
+    
+}
